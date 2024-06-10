@@ -1,0 +1,19 @@
+{
+  "name": "nicovdong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "dongyuchuan <nicovdong@163.com>",
+  "license": "ISC",
+  "repository": "https://github.com/nicovdong/nicovdong.github.io.git",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.13",
+    "@vuepress/theme-default": "^2.0.0-rc.35",
+    "vuepress": "^2.0.0-rc.13"
+  }
+}
